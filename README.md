@@ -41,18 +41,18 @@ label
 ![alt text](/images/roibygenre.png)
 
 label
-![alt text](image-1.png)
+![alt text](/images/vis_1.png)
 
 label
-![alt text](image-2.png)
+![alt text](image/vis_2.png)
 
-![alt text](image-3.png)
+![alt text](image/vis_3.png)
 
-![alt text](image-4.png)
+![alt text](image/vis_4.png)
 
-![alt text](image-5.png)
+![alt text](image/vis_5.png)
 
-![alt text](image-6.png)
+![alt text](image/vis_6.png)
 
 
 ![alt text](image.png)
