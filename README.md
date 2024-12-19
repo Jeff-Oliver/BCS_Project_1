@@ -78,25 +78,43 @@ jupyter/VS_Code/Google_Colab notebook
 ### Visuals 
 
 Graph of return of investment based on movie genre
+
 ![vis_1](https://raw.githubusercontent.com/Jeff-Oliver/BCS_Project_1/main/images/vis_1.png)
 
 
+
 Graph of number of movies released based on genre
+
 ![vis_2](https://raw.githubusercontent.com/Jeff-Oliver/BCS_Project_1/main/images/vis_2.png)
 
+
+
 Top six genres with the highest revenue by year
+
 ![vis_3](https://raw.githubusercontent.com/Jeff-Oliver/BCS_Project_1/main/images/vis_3.png)
 
+
+
 Top ten genres released including combinations
+
 ![vis_4](https://raw.githubusercontent.com/Jeff-Oliver/BCS_Project_1/main/images/vis_4.png)
 
+
+
 Graph showing voter rating distribution
+
 ![vis_5](https://raw.githubusercontent.com/Jeff-Oliver/BCS_Project_1/main/images/vis_5.png)
 
+
+
 Graph of voter rating distribution (excluding outliers)
+
 ![vis_6](https://raw.githubusercontent.com/Jeff-Oliver/BCS_Project_1/main/images/vis_6.png)
 
+
+
 Graph of top 10 movies by Bayesian average rating
+
 ![vis_7](https://raw.githubusercontent.com/Jeff-Oliver/BCS_Project_1/main/images/vis_7.png)
 
 
