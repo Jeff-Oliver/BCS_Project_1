@@ -46,12 +46,7 @@ git clone https://github.com/Jeff-Oliver/BCS_Project_1.git
 cd BCS_Project_1
 ```
 
-3. Install the technology requirements:
-```bash
-pip install -r technology requirements.text
-```
-
-4. Launch your preferred notebook
+3. Launch your preferred notebook
 ```bash
 jupyter/VS_Code/Google_Colab notebook
 ``` 
@@ -69,15 +64,12 @@ jupyter/VS_Code/Google_Colab notebook
 ### Project Structure
 
 ```
-├──requirements.txt           # Dependancies
+
 ├── data/
-│   ├── raw_data.csv          # Raw dataset
-│   ├── cleaned_data.csv      # Cleaned dataset
+│   ├── tmdb_df.csv           # Cleaned dataset
 ├── notebooks/
-│   ├── Movie_Success_Analysis.ipynb  # Jupyter Notebook
-├── src/
-│   ├── analysis.py           # Analysis scripts
-│   ├── visualization.py      # Visualization scripts
+│   ├── data_cleaning.ipynb   # Jupyter Notebook
+│   ├── analysis.ipynb        # Jupyter Notebook
 └── README.md                 # Project documentation
 ```
 
@@ -86,34 +78,35 @@ jupyter/VS_Code/Google_Colab notebook
 ### Visuals 
 
 Graph of return of investment based on movie genre
-![alt text](image.png)
+![vis_1](https://raw.githubusercontent.com/Jeff-Oliver/BCS_Project_1/main/images/vis_1.png)
+
 
 Graph of number of movies released based on genre
-![alt text](image-1.png)
+![vis_2](https://raw.githubusercontent.com/Jeff-Oliver/BCS_Project_1/main/images/vis_2.png)
 
 Top six genres with the highest revenue by year
-![alt text](image-2.png)
+![vis_3](https://raw.githubusercontent.com/Jeff-Oliver/BCS_Project_1/main/images/vis_3.png)
 
 Top ten genres released including combinations
-![alt text](image-3.png)
+![vis_4](https://raw.githubusercontent.com/Jeff-Oliver/BCS_Project_1/main/images/vis_4.png)
 
 Graph showing voter rating distribution
-![alt text](image-4.png)
+![vis_5](https://raw.githubusercontent.com/Jeff-Oliver/BCS_Project_1/main/images/vis_5.png)
 
 Graph of voter rating distribution (excluding outliers)
-![alt text](image-5.png)
+![vis_6](https://raw.githubusercontent.com/Jeff-Oliver/BCS_Project_1/main/images/vis_6.png)
 
 Graph of top 10 movies by Bayesian average rating
-![alt text](image-6.png)
+![vis_7](https://raw.githubusercontent.com/Jeff-Oliver/BCS_Project_1/main/images/vis_7.png)
 
 
 
 ### Results
 
-- **Key factores to a movie success**: We identified critical factors that translates to movie success
+- **Key factores to a movie success**: We identified critical factors that translates to movie success.
 - **Genre trends**: We identified the most popular genres and the least popular ones over the 10 years period.
 - **Popular movies**: We identified a list of the top 10 most popular movies in the 10 years period.
-- **Predictive Model**: Based on our analysis, we were able to predict the next blockbuster movie with an 92% accuracy 
+
 
 
 
@@ -132,7 +125,7 @@ Contributions are welcome and appreciated! Please follow these steps:
 
 
 
-### Contributors
+### Project contributors
 
 - Jeff Oliver
 - Leonard Forrester
